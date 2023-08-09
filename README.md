@@ -60,10 +60,6 @@ To replicate and explore this project, follow the instructions below.
 ### Installation
 
 1. Clone this repository to your local machine.
-
-`bash
-git clone https://github.com/NimratMudhar/covid-data-exploration-sql.git`
-
 2. Load the COVID-19 dataset into your SQL database. Update the database connection details in the script to match your environment.
 
 ### Usage
