@@ -77,6 +77,6 @@ Contributions are welcome and encouraged! If you would like to contribute to thi
 5. Submit a pull request to the original repository.
 
 ## Contact
-For any questions or inquiries, please contact [Me](https://www.linkedin.com/in/nimrat-kaur-mudhar-2618a2263/?originalSubdomain=in) .
+For any questions or inquiries, please contact [Nimrat Mudhar](https://www.linkedin.com/in/nimrat-kaur-mudhar-2618a2263/?originalSubdomain=in) .
 
 
